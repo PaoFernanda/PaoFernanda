@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Paola Fernanda Vargas
-- 👀 I’m interested in todo lo que me aporte
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in todo lo que me aporte conocimiento
+- 🌱 I’m currently learning lógica de programación
+
 
 <!---
 PaoFernanda/PaoFernanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
